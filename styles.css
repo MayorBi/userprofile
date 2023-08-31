@@ -1,0 +1,14 @@
+.bg-1 {
+    background-color: #94ADD7;
+    height: 100vh;
+}
+
+.img-circle {
+    width: 300px;
+      height: 300px;
+    border-radius: 50%;
+}
+
+.footersec {
+  background-color: #94ADD7;
+}
